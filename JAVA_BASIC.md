@@ -8,7 +8,8 @@
 - Collections
 - Files
 
-No fo Questions: 125 for basic
+No fo Questions: 125 for basic <br>
+No of Projects: 2 for basic
 
 **Input and Output (I/O) - 10 Questions:**
 1. Write a program to take user input and display it.
@@ -158,3 +159,46 @@ No fo Questions: 125 for basic
 74. Write a program to copy the contents of one text file to another.
 75. Create a Java program to delete a file.
 
+
+## Projects 
+**Project 1: Student Management System**
+
+**Project Description:**
+Create a simple student management system that allows users to perform various operations related to student data. The project should have a menu-driven interface with options to:
+
+1. Add a new student: Collect information like name, ID, course, and grades for multiple subjects.
+2. Display student details: Show information for a specific student, including their grades.
+3. Calculate and display student statistics: Calculate and display the average grade, highest grade, and lowest grade for a specific student.
+4. Display class statistics: Calculate and display class-level statistics like the average grade, highest grade, and lowest grade for all students.
+5. Search for students by name or ID.
+6. Load student data from a text file.
+7. Save student data to a text file.
+
+**Topics Covered:**
+- Functions for handling student data.
+- String manipulation for student names.
+- Arrays for storing student information and grades.
+- Collections for managing a list of students.
+- File handling for loading and saving student data.
+
+**Project 2: Library Management System**
+
+**Project Description:**
+Build a library management system that helps librarians and users manage books and borrowing records. The system should have a menu-driven interface with the following features:
+
+1. Add a new book: Collect information like title, author, ISBN, and quantity.
+2. Display book details: Show information about a specific book, including availability status.
+3. Borrow a book: Allow users to borrow a book if it's available, updating the availability status.
+4. Return a book: Users can return a borrowed book, updating the availability status.
+5. Display borrowed books: List books currently checked out by a user.
+6. Display available books: List all available books in the library.
+7. Search for books by title, author, or ISBN.
+8. Load book data from a text file.
+9. Save book data to a text file.
+
+**Topics Covered:**
+- Functions for managing books and user transactions.
+- String manipulation for book titles and author names.
+- Arrays for storing book information and availability status.
+- Collections for tracking user borrowing records.
+- File handling for loading and saving book and user data.
