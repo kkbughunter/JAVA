@@ -65,3 +65,14 @@ JAVA Book : [link](https://github.com/KKBUGHUNTER/JAVA/blob/main/resources/READM
 ## Problem Solving using JAVA
 
 ## What is next 
+ - Object Oriented Programming
+ - Data Structure and Algorithm
+ - Graphical User Interface Programming
+ - User Interface Components with Swing
+ - Multithreading Programming
+ - Networking Programming
+ - Mobile App Programming
+ - Database Programming
+ - API Programming
+ - Scripting, compiling and annotation processing
+ - Security
