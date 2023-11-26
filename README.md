@@ -2,6 +2,7 @@
 JAVA Roadmap : [link](https://roadmap.sh/java) <br> 
 JAVA Book : [link](https://github.com/KKBUGHUNTER/JAVA/blob/main/resources/README.md) <br>
 ## Fundamental Programming Structures in Java 
+ - Introduction
  - A Simple Java Program 
  - Comments
  - Variables and Constants 
@@ -61,5 +62,6 @@ JAVA Book : [link](https://github.com/KKBUGHUNTER/JAVA/blob/main/resources/READM
     - Java Delete Files
  - Mini Project
 
+## Problem Solving using JAVA
 
-
+## What is next 
