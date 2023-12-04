@@ -2,9 +2,9 @@
 JAVA Roadmap : [link](https://roadmap.sh/java) <br> 
 JAVA Book : [link](https://github.com/KKBUGHUNTER/JAVA/blob/main/resources/README.md) <br>
 ## Fundamental Programming Structures in Java 
- - Introduction
- - A Simple Java Program 
- - Comments
+ - [Introduction](https://github.com/KKBUGHUNTER/JAVA/tree/main/01%20Introduction)
+ - [A Simple Java Program](https://github.com/KKBUGHUNTER/JAVA/blob/main/02%20A%20Simple%20Java%20Program.md)
+ - [Comments](https://github.com/KKBUGHUNTER/JAVA/blob/main/03%20A%20Comments.md)
  - Variables and Constants 
     - Declaring Variables
     - Initializing Variables 
