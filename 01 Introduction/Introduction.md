@@ -13,13 +13,13 @@
   - [java version](https://en.wikipedia.org/wiki/Java_version_history)
 
 ## Topic to Node
-  1. JDK
-  2. JVM
-  3. JRE
-  4. bytecode
-  5. JIT
-  6. Class loader
-  7. principles of Object Oriented Programming
-  8. no pointers
+  1. [JDK](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/JDK.md)
+  2. [JVM](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/JVM.md)
+  3. [JRE](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/JRE.md)
+  4. [bytecode](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/bytecode.md)
+  5. [JIT](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/JIT.md)
+  6. [Class loader](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/class_loader.md)
+  7. [principles of Object Oriented Programming](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/principles_of_Object_Oriented_Programming.md)
+  8. [no pointers](https://github.com/KKBUGHUNTER/JAVA/blob/main/01%20Introduction/no_pointers.md)
   9. java interview question [link](https://github.com/vaibhavsahu/Interview-Stuff/blob/master/1000%20Java%20Interview%20Questions.pdf)
 
