@@ -1,4 +1,4 @@
-package javaprogram;
+package javaprogramI;
 
 public class WelcomeToJava {
 
