@@ -1,4 +1,4 @@
-package javaprogramI;
+package javaprogram;
 
 public class JavaVariables {
 	
